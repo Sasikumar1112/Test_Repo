@@ -1,4 +1,1 @@
-public static void
-hello
-sysout
-ethanada
+add1
